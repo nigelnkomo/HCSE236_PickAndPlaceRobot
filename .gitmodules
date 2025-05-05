@@ -1,0 +1,6 @@
+[submodule "src/moveit_resources"]
+	path = src/moveit_resources
+	url = https://github.com/ros-planning/moveit_resources
+[submodule "src/moveit_task_constructor"]
+	path = src/moveit_task_constructor
+	url = https://github.com/ros-planning/moveit_task_constructor
